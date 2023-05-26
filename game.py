@@ -51,5 +51,4 @@ def print_result(user_choice):
     pass
 
 if __name__ == "__main__":
-    print("ma llamao alguien?")
     game_loop()
